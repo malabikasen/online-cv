@@ -142,16 +142,19 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        
 publications:
     title: Publications
-    
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: An algorithm for resolution of Anaphora in English text
-        link: "https://ieeexplore.ieee.org/document/8276078"
-        authors: Malabika Sen, Neeti Shah, Laxmi Kurup
-        conference: IEEE International Conference on Innovations in Information, Embedded and Communication Systems
-        (ICIIECS), 2017
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
 skills:
     title: Skills &amp; Proficiency
 
