@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Malabika Sen
     tagline: Software Engineer
-    avatar: circle-croppedx.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: circle-cropped.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: malabika@vt.edu
