@@ -147,11 +147,11 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
+      - title: An algorithm for resolution of Anaphora in English text
+        link: "https://ieeexplore.ieee.org/document/8276078"
+        authors: Malabika Sen, Neeti Shah, Laxmi Kurup
+        conference: IEEE International Conference on Innovations in Information, Embedded and Communication Systems
+                    (ICIIECS), 2017
 skills:
     title: Skills &amp; Proficiency
 
