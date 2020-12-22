@@ -48,12 +48,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I started my career in the industry as a Software Developer at JP Morgan Chase & Co. after graduating from the University of Mumbai in 2017.
+      Most of my learnings about project planning, estimation, good code practices and testing come from my time there. One of the things which I enjoyed the most was
+      debugging and finding bugs in production code which often got missed during testing in development.
+      Two years later, I came to Virginia Tech to pursue a Masters in Computer Science. 
+      
 education:
     - degree: MS in Computer Science
       university: Virginia Polytechnic Institute and State University
