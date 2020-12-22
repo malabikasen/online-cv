@@ -25,15 +25,15 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Professional
+    #languages:
+      #- idiom: English
+        #level: Professional
 
-      - idiom: Bengali
-        level: Native
+      #- idiom: Bengali
+        #level: Native
 
-      - idiom: Hindi
-        level: Native
+      #- idiom: Hindi
+        #level: Native
 
     interests:
       - item: Running
@@ -42,8 +42,8 @@ sidebar:
       - item: Yoga
         link:
 
-      - item: Cooking
-        link:
+      - item: Nutrition Science
+        link: https://www.100daysofsummer.net/blog
 
 career-profile:
     title: About Me
@@ -83,39 +83,22 @@ experiences:
       time: Jul 2017 - Jul 2019
       company: JP Morgan Chase & Co., Mumbai, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked for Rates Athena Global Engineering Business under Corporate Investment Business Line of Business
+
+        - A core member of a project responsible for migrating a trade-transaction data object from the main production database into an ancillary database.
+          This activity helped stabilize the growing production database due to a high volume of trades and relieved off 10% of space. 
+          Redesigned existing processes and jobs (>35) to incorporate the change and test them. 
+          Also helped in migrating 2 of the most widely used applications in the Rates business.
+
+        - Helped my team onboard a new set of applications and business processes. 
+          Primary owner of one of the most used onboarded application and deal with the requirements and enhancements related to it.
+
+        - Part of JP Morgan’s Force For Good 2017 initiative as an Application Developer for SaNiSa.
+          SaNiSa has been one of the two projects out of the 22 Force For Good projects from India which was selected to represent JP Morgan in the Nasscom CSR Conference 2018.
+
+        - Lead for the Rates Ed program which is an initiative to help in the knowledge transfer of the different technologies and business information 
+          to all the technologists in the Rates Business spread across Mumbai, Bangalore and Hyderabad in India.
+    
 projects:
     title: Projects
     intro: >
