@@ -106,25 +106,27 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Performance of Supervised Classifiers on Mouse Cell Atlas single-cell RNA
+                Sequencing Data for Cell Annotation
+        link: "https://github.com/malabikasen/benchmarking-supervised-classifiers"
+        tagline: "Benchmarked 2 supervised classification algorithms - SVM and ACTINN for cell-type identification of a mouse dataset
+                 to understand cell-lineage and tracing. Analyzed more than 200K mouse cells spread over 42 tissue types."
 
-      - title: DevStudio
+      - title: Netflix Movie Recommendation System
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A react app to get started"
 
-      - title: Atom
+      - title: A game 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Implemented a game using Javascript based on Object-Oriented Principles and testing"
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An NLP app"
         
 publications:
     title: Publications
