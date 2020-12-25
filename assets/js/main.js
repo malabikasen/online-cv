@@ -22,13 +22,13 @@ jQuery(document).ready(function($) {
 
 function darkModeToggle(obj) {
   if($(obj).is(":checked")){
-    alert("Yes checked");
+    //alert("Yes checked");
     //var element = document.getElementById('body');
     //element.classList.toggle("dark-mode");//when checked
-    //document.body.style.background = "black";
+    document.body.style.background = "black";
   }else{
-    //document.body.style.background = "white"; //when not checked
-    alert("Yes checked");
+    document.body.style.background = "white"; //when not checked
+    //alert("Yes checked");
   }
   
 }
