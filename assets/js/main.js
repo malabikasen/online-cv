@@ -21,14 +21,16 @@ jQuery(document).ready(function($) {
 });
 
 function darkModeToggle(obj) {
+  var element = document.getElementsByClassName('main-wrapper');
   if($(obj).is(":checked")){
     //alert("Yes checked");
-    //var element = document.getElementById('body');
+    
     //element.classList.toggle("dark-mode");//when checked
-    document.body.style.background = "black";
+    document.body.style.background = "#95a5a6";
+    element.style.backgroundColor = "#34495e";
   }else{
-    document.body.style.background = "white"; //when not checked
-    //alert("Yes checked");
+    document.body.style.background = "#ecf0f1"; //when not checked
+    element.style.backgroundColor = "#fff";
   }
   
 }
