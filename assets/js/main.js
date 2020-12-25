@@ -27,10 +27,10 @@ function darkModeToggle(obj) {
     
     //element.classList.toggle("dark-mode");//when checked
     document.body.style.background = "#2c3e50";
-    element.style.backgroundColor = "#34495e";
+    element.style.background = "#34495e";
   }else{
     document.body.style.background = "#ecf0f1"; //when not checked
-    element.style.backgroundColor = "#fff";
+    element.style.background = "#fff";
   }
   
 }
