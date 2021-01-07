@@ -105,19 +105,21 @@ experiences:
 projects:
     title: Projects
     assignments:
+    
+      - title: A ToDo List Single Page Application using MERN stack
+        link: "https://dry-crag-26562.herokuapp.com/"
+        tagline: "A Single Page App (SPA) built with Express, Mongo DB and Node which uses REST APIs to manage a ToDo List application to add, update, read and delete tasks."   
+        
       - title: Performance of Supervised Classifiers on Mouse Cell Atlas single-cell RNA
                 Sequencing Data for Cell Annotation
         link: "https://github.com/malabikasen/benchmarking-supervised-classifiers"
         tagline: "Benchmarked 2 supervised classification algorithms - SVM and ACTINN for cell-type identification of a mouse dataset
-                 to understand cell-lineage and tracing. Analyzed more than 200K mouse cells spread over 42 tissue types."
+                    to understand cell-lineage and tracing. Analyzed more than 200K mouse cells spread over 42 tissue types using Python, 
+                    R and [Seurat](https://satijalab.org/seurat/)."
 
       - title: Netflix Movie Recommendation System
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: A ToDo List Single Page Application using MERN stack
-        link: "https://dry-crag-26562.herokuapp.com/"
-        tagline: "A Single Page App (SPA) built with Express, Mongo DB and Node which uses REST APIs to manage a ToDo List application to add, update, read and delete tasks."
 
       - title: A game 
         link: "#"
