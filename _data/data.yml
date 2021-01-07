@@ -74,11 +74,6 @@ education:
         My Masters thesis focuses on identifying the host-microbiome-parasite interaction in the gut of honey bees in response to the experimental exposure to Nosema parasite.
         
         
-        These data will be used to generate interaction networks to identify key aspects of microbiome structure and function that vary with parasite resistance, to characterize
-        key members of the bacterial communities that play a role in resistance and to identify the potential metabolic interactions among the host, the parasite 
-        and the bacteria within the microbiome.
-        
-        
         During the course of my Masters degree, I have worked on projects in NLP, Data Science, and Deep Learning. 
     - degree: BE in Computer Engineering
       university: University of Mumbai
@@ -112,7 +107,7 @@ projects:
     
       - title: A ToDo List Single Page Application using MERN stack
         link: "https://github.com/malabikasen/todolist"
-        tagline: "A Single Page App (SPA) built with Express, Mongo DB and Node which uses REST APIs to manage a ToDo List application to add, update, read and delete tasks."   
+        tagline: "A Single Page App (SPA) built with Express, Mongo DB and Node which uses REST APIs to manage a ToDo List to add, update, read and delete tasks."   
         
       - title: Performance of Supervised Classifiers on Mouse Cell Atlas single-cell RNA Sequencing Data for Cell Annotation
         link: "https://github.com/malabikasen/benchmarking-supervised-classifiers"
