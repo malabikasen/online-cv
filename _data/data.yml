@@ -108,7 +108,7 @@ experiences:
     
 projects:
     title: Projects
-    assignments: |
+    assignments:
     
       - title: A ToDo List Single Page Application using MERN stack
         link: "https://github.com/malabikasen/todolist"
@@ -140,13 +140,6 @@ publications:
         conference: IEEE International Conference on Innovations in Information, Embedded and Communication Systems
                     (ICIIECS), 2017
                     
-skillset:
-    title: Skills
-    
-    toolset:
-        - name: Python, Java
-        
-        - name: Javascript
         
 skills:
     title: Skills
