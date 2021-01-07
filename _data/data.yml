@@ -119,16 +119,16 @@ projects:
         tagline: "Benchmarked 2 supervised classification algorithms - SVM and ACTINN for cell-type identification of a mouse dataset to understand cell-lineage and tracing. Analyzed more than 200K mouse cells spread over 42 tissue types."
 
       - title: Netflix Movie Recommendation System
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://github.com/malabikasen/Netflix-Movie-Recommendation-System"
+        tagline: "A content-based filtering recommendation system for Netflix movies based on cosine-similarity of TF-IDF vectorization of movie description"
 
-      - title: A game 
-        link: "#"
-        tagline: "Implemented a game using Javascript based on Object-Oriented Principles and testing"
-
-      - title: Delta
-        link: "#"
-        tagline: "An NLP app"
+      - title: Chaakri
+        link: "https://play.google.com/store/apps/details?id=com.sanisa.in&hl=en_IN"
+        tagline: "An app and an admin website for an NGO SaNiSa to streamline the supply of their food products and manage
+                 resources efficiently. Was one of 2 projects from 22 projects in JPMorgan to be showcased in Nasscom CSR
+                 Conference 2018.
+                 Estimated order capture and volume predicted to be around 3800kg of products worth Rs.100K compared to the
+                 earlier 2500kg at Rs.65K"
         
 publications:
     title: Publications
