@@ -113,9 +113,7 @@ projects:
       - title: Performance of Supervised Classifiers on Mouse Cell Atlas single-cell RNA
                 Sequencing Data for Cell Annotation
         link: "https://github.com/malabikasen/benchmarking-supervised-classifiers"
-        tagline: "Benchmarked 2 supervised classification algorithms - SVM and ACTINN for cell-type identification of a mouse dataset
-                    to understand cell-lineage and tracing. Analyzed more than 200K mouse cells spread over 42 tissue types using Python, 
-                    R and [Seurat](https://satijalab.org/seurat/)."
+        tagline: "Benchmarked 2 supervised classification algorithms - SVM and ACTINN for cell-type identification of a mouse dataset to understand cell-lineage and tracing. Analyzed more than 200K mouse cells spread over 42 tissue types using Python, R and [Seurat](https://satijalab.org/seurat/)."
 
       - title: Netflix Movie Recommendation System
         link: "#"
