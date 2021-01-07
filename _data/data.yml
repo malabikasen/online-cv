@@ -71,7 +71,10 @@ education:
       time: Aug 2019 - May 2021
       details: |
         I work with [Dr. T. M. Murali](https://bioinformatics.cs.vt.edu/~murali/) and his Research group to identify problems in BioInformatics and solve them.
-        My Masters thesis focuses on identifying the host-microbiome-parasite interaction in the gut of honey bees in response to the experimental exposure to Nosema parasite.        
+        My Masters thesis focuses on identifying the host-microbiome-parasite interaction in the gut of honey bees in response to the experimental exposure to Nosema parasite.
+        These data will be used to generate interaction networks to identify key aspects of microbiome structure and function that vary with parasite resistance, to characterize
+        key members of the bacterial communities that play a role in resistance and to identify the potential metabolic interactions among the host, the parasite 
+        and the bacteria within the microbiome.          
         During the course of my Masters degree, I have worked on projects in NLP, Data Science, and Deep Learning. 
     - degree: BE in Computer Engineering
       university: University of Mumbai
@@ -101,10 +104,6 @@ experiences:
     
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Performance of Supervised Classifiers on Mouse Cell Atlas single-cell RNA
                 Sequencing Data for Cell Annotation
@@ -116,9 +115,9 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A react app to get started"
+      - title: A ToDo List Single Page Application using MERN stack
+        link: "https://dry-crag-26562.herokuapp.com/"
+        tagline: "A Single Page App (SPA) built with Express, Mongo DB and Node which uses REST APIs to manage a ToDo List application to add, update, read and delete tasks."
 
       - title: A game 
         link: "#"
