@@ -144,7 +144,7 @@ skills:
       - name: Python, Java, C
       
       - type: Full Stack Web Development
-      - name: Javascript & jQuery, Express, Node.js, HTML5 & CSS, PHP, XAMPP, MEAN, MERN
+      - name: Javascript & jQuery, Express.js, Node.js, HTML5 & CSS, PHP, XAMPP, MEAN, MERN
 
       - type: Data Science
       - name: NumPy, Pandas, ElasticSearch, Kibana, Tensorflow, scikit-learn
