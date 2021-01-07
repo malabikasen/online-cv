@@ -145,17 +145,23 @@ skills:
     title: Skills
 
     toolset:
-      - name: Python, Java
+      - type: Languages
+      - name: Python, Java, C
+      
+      - type: Full Stack Web Development
+      - name: Javascript & jQuery, Express, Node.js, HTML5 & CSS, PHP, XAMPP, MEAN, MERN
 
-      - name: Javascript & jQuery, Express, Node.js, HTML5 & CSS, PHP
-
+      - type: Data Science
       - name: NumPy, Pandas, ElasticSearch, Kibana, Tensorflow, scikit-learn
 
+      - type: Databases
       - name: MySQL, NoSQL, MongoDB
 
+      - type: Frameworks
       - name: Firebase, Ionic, CodeIgniter, Laravel, Django, Java Swing, React
 
-      - name: Git, Docker, Kubernetes, AWS
+      - type: DevOps
+      - name: Docker, Kubernetes, AWS, Git
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
