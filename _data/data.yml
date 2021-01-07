@@ -114,8 +114,7 @@ projects:
         link: "https://github.com/malabikasen/todolist"
         tagline: "A Single Page App (SPA) built with Express, Mongo DB and Node which uses REST APIs to manage a ToDo List application to add, update, read and delete tasks."   
         
-      - title: Performance of Supervised Classifiers on Mouse Cell Atlas single-cell RNA
-                Sequencing Data for Cell Annotation
+      - title: Performance of Supervised Classifiers on Mouse Cell Atlas single-cell RNA Sequencing Data for Cell Annotation
         link: "https://github.com/malabikasen/benchmarking-supervised-classifiers"
         tagline: "Benchmarked 2 supervised classification algorithms - SVM and ACTINN for cell-type identification of a mouse dataset to understand cell-lineage and tracing. Analyzed more than 200K mouse cells spread over 42 tissue types using Python, R and" [Seurat](https://satijalab.org/seurat/).
 
