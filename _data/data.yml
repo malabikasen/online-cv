@@ -140,17 +140,17 @@ skills:
     title: Skills
 
     toolset:
-      - name: Python 
+      - name: Python, Java
 
-      - name: Javascript & jQuery
+      - name: Javascript & jQuery, Express, Node.js, HTML5 & CSS, PHP
 
-      - name: Angular
+      - name: NumPy, Pandas, ElasticSearch, Kibana, Tensorflow, scikit-learn
 
-      - name: HTML5 & CSS
+      - name: MySQL, NoSQL, MongoDB
 
-      - name: Ruby on Rails
+      - name: Firebase, Ionic, CodeIgniter, Laravel, Django, Java Swing, React
 
-      - name: Sketch & Photoshop
+      - name: Git, Docker, Kubernetes, AWS
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
